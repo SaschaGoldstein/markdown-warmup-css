@@ -14,11 +14,15 @@
            height: 200px
            text-align: justify;            
         }
+        p.serif {
+            font-family: Arial, Helvetica, sans-serif
+        }
      </style>
      </head>
         <p> gaat het? </p>
         <div>
         With the power of Roslyn, Visual Studio for Mac brings IntelliSense to your fingertips. IntelliSense describes APIs as you type and uses auto-completion to increase the speed and accuracy of how you write code.
         </div>
+        <p class="sanserif">Door de uitgebreide mogelijkheden kan je er veel meedoen</p>
     </body>
 </html>
