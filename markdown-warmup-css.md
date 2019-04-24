@@ -21,6 +21,10 @@
         a {
             color: hotpink
         }
+
+        ul {
+            list-style: square inside url("sqpurple.gif");
+        }
      </style>
      </head>
         <p> gaat het? </p>
@@ -32,6 +36,21 @@
         <p class="sanserif">Door de uitgebreide mogelijkheden kan je er veel meedoen</p>
 
         <p><b><a href= "https://visualstudio.microsoft.com" target= "_blank">this is a link </a></b></p>
+
+        <ul>
+            <li>an image</li>
+            <li>a url with custom text</li>
+            <li>a numererd list</li>
+            <li>a table</li>
+            <li>bold text</li>
+            <li>italic text</li>
+            <li>a non numbered list with subpoints</li>
+            <li>a quote</li>
+            <li>headers</li>
+            <li>a code block</li>
+            <li>a task list</li>
+            <li>an emoji</li>
+        </ul>   
 
     </body>
 </html>
